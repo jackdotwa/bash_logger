@@ -14,9 +14,6 @@
 #
 ##
 
-# we are assuming that this script lies in /usr/local/lib
-libhome=/usr/local/lib/logger
-
 red='\033[0;31m'
 nc='\033[0m'
 if [ -z $PROGNAME ]; then
